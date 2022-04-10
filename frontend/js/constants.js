@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Got A Big Head NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Got a Big Head is all about having an ego and is the ultimate profile NFT. You like to share and give your opinions on social media...They will see you Got A Big Head!!!';
+const welcome_p = 'Got a Big Head is all about having an ego and is the ultimate profile NFT....They will see you Got A Big Head!!!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
