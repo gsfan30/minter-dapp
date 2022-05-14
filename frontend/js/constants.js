@@ -1,12 +1,12 @@
 const contractAddress = "0x1fA6C5e6C76Bf8c0544f18911e214DF983d12D4c"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Got A Big Head NFT Project!!---SOLD OUT---Check us out on Opensea";
-const welcome_h2 = "Connect to MetaMask to Get Started---SOLD OUT---Check us out on Opensea";
+const welcome_h1 = "Welcome to the Got A Big Head NFT Project!!---SOLD OUT---Check out on Opensea";
+const welcome_h2 = "Connect to MetaMask to Get Started---SOLD OUT---Check out on Opensea";
 const welcome_p = 'Got a Big Head is all about having an ego and is the ultimate profile NFT....They will see you Got A Big Head!!!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting---SOLD OUT---Check out the collection on Opensea";
+const h1_public_mint = "---SOLD OUT---Check out the collection on Opensea";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
